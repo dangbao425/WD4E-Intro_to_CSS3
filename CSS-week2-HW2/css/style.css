@@ -9,6 +9,8 @@ header {
 
 nav {
   background-color: #758BFD;
+  display: inline-block;
+  width: 80%;
 }
 
 nav ul {
@@ -19,6 +21,10 @@ nav ul {
 
 nav a {
   color: #0B0B45;
+}
+
+nav img {
+  width: 10%;
 }
 
 main {
@@ -32,11 +38,13 @@ footer {
   padding: 0.5rem 1rem;
 }
 
+/*
 li {
   display: inline-block;
   width: 280px;
   text-align: center;
 }
+*/
 
 h1 {
   text-align: center;
@@ -46,24 +54,6 @@ h1 {
 
 p {
   line-height: 1.6;
-}
-
-/*
-li {
-  display: inline-block;
-  width: 280px;
-  text-align: center;
-}
-*/
-
-nav {
-  background-color: #758BFD;
-  display: inline-block;
-  width: 80%;
-}
-
-nav img {
-  width: 10%;
 }
 
 .grid {
