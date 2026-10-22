@@ -4,20 +4,20 @@ body{
 }
 
 header {
-  background-color: #DBA8AC;
+  background-color: #27187E;
 }
 
 nav {
-  background-color: #DEB0B4;
+  background-color: #758BFD;
 }
 
 main {
-  background-color: #E1B7BB;
+  background-color: #AEB8FE;
   font-size: 185%;
 }
 
 footer {
-  background-color: #E4BEC1;
+  background-color: #F1F2F6;
 }
 
 li {
@@ -28,7 +28,7 @@ li {
 h1 {
   text-align: center;
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-  color: #E6C4C7;
+  color: #FF8600;
 }
 
 p {
